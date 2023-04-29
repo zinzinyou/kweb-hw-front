@@ -1,0 +1,23 @@
+#scroll-button{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    font-size: 20px;
+    border: 2px navy;
+    border-style: solid;
+    border-radius: 50px;
+    background-color: navy;
+    padding: 3px 7px;
+}
+
+.top-scroll{
+    color: white;
+    padding-bottom: 5px;
+
+}
+
+.bottom-scroll{
+    padding-top: 5px;
+    border-top: 1px solid white;
+    color: white;
+}

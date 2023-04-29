@@ -1,0 +1,16 @@
+.numbers{
+    text-align: center;
+}
+
+.number{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    padding: 50px 0;
+    border: 1px solid black;
+    background-color: #f89a9a;
+    border-radius: 50px;
+    margin: 20px 10px;
+    padding: 2px;
+}
